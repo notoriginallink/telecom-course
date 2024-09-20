@@ -16,3 +16,4 @@ lsof -i -P -n | grep "LISTEN"
 ``` bash
 ss -tunp
 ```
+
